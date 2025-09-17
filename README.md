@@ -30,6 +30,9 @@ This repository is a **Rust‑first tour** of 99 hand‑picked problems. Every d
 We keep things friendly and human. Expect conversational asides like “you see now what I did there” when we pull a neat trick.
 
 > 🔒 **No‑spoilers policy**: the final numeric answer for each Euler input is **never printed** in this repo or the posts. Code prints a `TODO` placeholder; tiny toy values from official statements are okay.
+> 
+> 🧑‍🏫 This repository respects Project Euler’s ethos and Terms: it contains original, MIT‑licensed explanations and learning‑oriented code that do not publish final numeric answers. For each challenge we paraphrase the prompt (or quote tiny illustrative values already shown on projecteuler.net) and stop one step before the last arithmetic; any println! that would reveal an answer is intentionally commented out. We focus on general techniques and Rust idioms, not solution dumps, and we limit coverage to the first 99 problems commonly used for practice. Project Euler content and trademarks remain the property of their owners; this project is unaffiliated and encourages readers to solve on the official site.
+> If the Project Euler team requests edits for compliance, we’ll gladly make them.
 
 ---
 
