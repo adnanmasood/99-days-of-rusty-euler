@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://www.rust-lang.org/"><img alt="Rust 2021" src="https://img.shields.io/badge/Rust-2021-ed6f2e?logo=rust&logoColor=white"></a>
-  <img alt="Progress" src="https://img.shields.io/badge/Progress-02%2F99-00a37a">
+  <img alt="Progress" src="https://img.shields.io/badge/Progress-03%2F99-00a37a">
   <img alt="No spoilers" src="https://img.shields.io/badge/No%20Spoilers-Yes-8a2be2">
   <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/License-MIT-2ea44f"></a>
   <a href="https://github.com/adnanmasood/99-days-of-rusty-euler/issues"><img alt="PRs welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"></a>
@@ -94,14 +94,14 @@ We keep things friendly and human. Expect conversational asides like “you see 
 
 ## 📅 Daily Index
 
-**Progress:** `2 / 99` `[▓▓░░░░░░░░░░░░░░░░░░░░]`
+**Progress:** `3 / 99` `[▓▓▓░░░░░░░░░░░░░░░░░░░]`
 
 <details>
 <summary><strong>Open the full day list</strong></summary>
 
 * ✅ **Day 01** — *The 3–5 Junction* (Euler #1) → `problems/01_multiples_of_3_or_5/`
 * ✅ **Day 02** — *Even Steps on the Golden Staircase* (Euler #2) → `problems/02_even_fibonacci_numbers/`
-* ⬜ Day 03 — *(coming soon)*
+* ✅ **Day 03** — *Dances with Divisors* (Euler #3) → `problems/03_largest_prime_factor/`
 * ⬜ Day 04 — *(coming soon)*
 * ⬜ …
 * ⬜ Day 99 — *(coming soon)*
